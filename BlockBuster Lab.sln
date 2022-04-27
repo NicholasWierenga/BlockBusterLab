@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockBuster Lab", "BlockBuster Lab\BlockBuster Lab.csproj", "{FF15C943-B5BD-4C4E-AD6A-7744B684AE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF15C943-B5BD-4C4E-AD6A-7744B684AE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF15C943-B5BD-4C4E-AD6A-7744B684AE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF15C943-B5BD-4C4E-AD6A-7744B684AE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF15C943-B5BD-4C4E-AD6A-7744B684AE30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60EB163F-F40F-4513-BCB6-0B845B979529}
+	EndGlobalSection
+EndGlobal
